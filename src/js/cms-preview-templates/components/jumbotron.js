@@ -9,6 +9,7 @@ export default class Jumbotron extends React.Component {
       }}>
         <div className="mw7 center ph3">
           <div className="db mb3">
+            <img src="{{ .image2 }}" alt="" class="center db mb3" style="width: 240px"/>
             <div className="mw7 relative bg-fix-primary mb3">
               <h1 className="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
                 { title }

@@ -1,7 +1,8 @@
 ---
-title: Landeskirchliche Gemeinschaft Ludwigslust
-subtitle: Innerhalb der Evangelischen Landeskirche
+title: '  '
+subtitle: ' '
 image: img/schloss1.jpg
+image2: img/image_logo_lulu.png
 blurb:
   heading: Landeskirchliche Gemeinschaft Ludwigslust
   text: >-
@@ -10,23 +11,13 @@ blurb:
 
     Auf dieser Internetseite laden wir Sie ein, sich ein Bild über unser Gemeindeleben zu machen. Aktuelle Veranstaltungen entnehmen Sie bitte dem Veranstaltungskalender.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Wir suchen genau dich
+  text: Im Ramen eines FSJ suchen wir jemanden für unsere Gemeinde ...
 aktuelles:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/fsj.jpeg
+    text: Hab eine spannende Zeit bei uns ...
+  - image: /img/fsj2.jpg
+    text: Hab auch noch viel mehr Spaß ...
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –

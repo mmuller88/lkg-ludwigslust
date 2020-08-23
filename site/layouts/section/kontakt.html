@@ -8,7 +8,7 @@
 		{{ .Content }}
 
 		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
+	        	{{ range .Params.kontakt_entries }}
 				<div>
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
 					<p>{{ .text }}</p>
@@ -16,7 +16,7 @@
 			{{ end }}
 		</div>
 
-		{{ partial "contact-form" . }}
+		{{ partial "kontakt-form" . }}
 
 	</div>
 </div>
